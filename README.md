@@ -1,4 +1,4 @@
-# hello-world
+# SKIRMISH GAME
 beginner repository
 
 using System;
