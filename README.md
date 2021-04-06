@@ -1,5 +1,4 @@
 # SKIRMISH GAME
-beginner repository
 
 using System;
 using System.Windows.Forms;
